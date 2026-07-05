@@ -48,6 +48,7 @@ Immunotoxicity
 Organ toxicity profiles
 
 🏆 Key Results
+
 Top docking score: -7.097 kcal/mol
 Strong binding observed for selected ZINC compounds
 High polarity and glycosylation observed across leads
