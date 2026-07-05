@@ -61,14 +61,7 @@ Molecular Dynamics (MD) simulations
 MM/GBSA binding free energy calculations
 Aglycone vs glycosylated scaffold comparison
 Lead optimization strategies
-📁 Repository Contents
-📂 docking_results/
-📂 admet_qikprop/
-📂 swissadme_results/
-📂 pkcsm_results/
-📂 prototox_results/
-📂 figures/
-README.md
+
 
 🧠 Tools Used
 Schrödinger Maestro (Docking)
