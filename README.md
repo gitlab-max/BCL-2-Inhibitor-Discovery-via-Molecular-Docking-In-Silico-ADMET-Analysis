@@ -46,12 +46,14 @@ Cardiotoxicity
 Mutagenicity
 Immunotoxicity
 Organ toxicity profiles
+
 🏆 Key Results
 Top docking score: -7.097 kcal/mol
 Strong binding observed for selected ZINC compounds
 High polarity and glycosylation observed across leads
 Good solubility but low predicted oral absorption
 No major PAINS alerts detected
+
 ⚠️ Key Insight
 
 Glycosylated natural products showed strong docking interactions but reduced predicted GI absorption, highlighting a classic binding affinity vs pharmacokinetic trade-off.
